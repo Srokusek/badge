@@ -11,7 +11,6 @@ from copy import copy as copy
 from copy import deepcopy as deepcopy
 import torch
 from torch import nn
-import torchfile
 from torch.autograd import Variable
 import torch.optim as optim
 from torch.nn import functional as F
